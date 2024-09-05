@@ -3,4 +3,4 @@
 -- select  * from staff;
 
 use sql_store;
-select * from customer;
+select * from customers;
